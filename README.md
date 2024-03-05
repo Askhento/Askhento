@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=askhento&label=Profile%20views&color=0e75b6&style=flat" alt="askhento" /> </p>
 
-- 📝 I regularly write articles on [https://askhento.github.io/](https://askhento.github.io/)
+- 📝 I rarely write articles on [https://askhento.github.io/](https://askhento.github.io/)
 
 - 📫 How to reach me **mudarisowash@gmail.com**
 
